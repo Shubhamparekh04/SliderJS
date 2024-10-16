@@ -1,0 +1,19 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+main {
+    width: 100%;
+}
+
+img {
+    display: block;
+    margin: auto;
+    padding: 5px;
+}
+
+div {
+    text-align: center;
+}
