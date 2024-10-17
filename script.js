@@ -1,5 +1,5 @@
-var i = 0;
-var images = [
+let i = 0;
+let images = [
     "https://picsum.photos/id/237/700/400",
     "https://picsum.photos/id/238/700/400",
     "https://picsum.photos/id/239/700/400",
